@@ -1,0 +1,11 @@
+.vali_msg{
+	background: none repeat scroll 0 0 #F1F5F8;
+    border: 1px solid #CCCCCC;
+    white-space: nowrap;
+    font-size:12px;
+	color:#f00;
+}	
+.vali_msg .vali_content{
+	color: #BA0100;
+    padding: 4px 20px;
+}
